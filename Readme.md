@@ -17,5 +17,5 @@ which provides more currencies than the default Thelia feed
 Add it in your main thelia composer.json file
 
 ```
-composer require your-vendor/the-money-converter-exchange-rates-module:~1.0
+composer require roadster31/the-money-converter-exchange-rates-module:~1.0
 ```
