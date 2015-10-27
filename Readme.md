@@ -1,6 +1,9 @@
 # The Money Converter Exchange Rates
 
-This module uses the The Money Converter currency exchange rates feed, which provides more currencies than the default Thelia feed (http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml).
+This module uses the The Money Converter currency exchange rates feed 
+(http://themoneyconverter.com/EUR/Exchange_Rates_For_Euro.aspx), 
+which provides more currencies than the default Thelia feed 
+(http://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml).
 
 ## Installation
 
